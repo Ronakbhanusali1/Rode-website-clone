@@ -1,6 +1,6 @@
 # Rode website clone
 
-### A clone of official clone website
+### A clone of official rode website
 
 # Things I learnt
 
